@@ -11,8 +11,8 @@ if [ -e ~/.vimrc ]; then
 fi
 
 echo "... creating symlinks for config files"
-ln -s ~/.vim/vimrc ~/vimrc
-ln -s ~/.vim/gvimrc ~/gvimrc
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
 
 cd ~/.vim
 echo "... initializing modules"
