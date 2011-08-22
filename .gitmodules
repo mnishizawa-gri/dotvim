@@ -34,6 +34,3 @@
 [submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = git://github.com/Raimondi/delimitMate.git
-[submodule "bundle/sparkup"]
-	path = bundle/sparkup
-	url = git://github.com/bingaman/vim-sparkup.git
