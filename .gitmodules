@@ -36,4 +36,7 @@
 	url = git://github.com/Raimondi/delimitMate.git
 [submodule "bundle/sparkup"]
 	path = bundle/sparkup
-	url = git://github.com/rstacruz/sparkup.git
+	url = http://github.com/bingaman/vim-sparkup.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
